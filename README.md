@@ -17,11 +17,10 @@ npm start
 ```
 
 ## Demo
-[Image](https://github.com/mansinakrani/ReactJS-PR_4-ToDoList/blob/reactjs_PR-4/image_Practical-4.png)
-<<<<<<< HEAD
+[Image](https://github.com/mansinakrani/ReactJS_P-4/blob/reactjs_pr-4/image_Practical-4.png)
 
 ## Repo Link
-[Practical - 4](https://github.com/mansinakrani/ReactJS-PR_4-ToDoList/tree/reactjs_PR-4)
-=======
->>>>>>> 55d13a562387831890f68e3b003347667a711bfc
-# ReactJS_P-4
+[Practical - 4](https://github.com/mansinakrani/ReactJS_P-4.git)
+
+## PR Link
+[PR](https://github.com/mansinakrani/ReactJS_P-4/pull/1#issue-1148881748)
